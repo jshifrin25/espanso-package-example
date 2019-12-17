@@ -1,8 +1,8 @@
-# Simple package
+# Git Command package
 
-name: simple-package 
+name: git-cmd-package 
 parent: default
 
 matches:
-  - trigger: ":hw"
-    replace: "hello world"
+  - trigger: ":gc"
+    replace: "git clone"

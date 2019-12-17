@@ -1,9 +1,9 @@
 ---
-package_name: "simple-package"
-package_title: "Simple Package"
-package_desc: "A simple package to say Hello World."
+package_name: "git-cmd-package"
+package_title: "Simple Git Commands"
+package_desc: "A package to expand and run common git commands"
 package_version: "0.1.0"
-package_author: "Federico Terzi"
-package_repo: "https://github.com/federico-terzi/espanso-package-example"
+package_author: "Joshua Shifrin"
+package_repo: "https://github.com/jshifrin25/espanso-package-example"
 ---
-A simple package to say "Hello World"
+## A simple package to execute common git commands
